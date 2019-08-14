@@ -1,8 +1,10 @@
-package com.example.nanews;
+package com.example.nanews.auth;
 
 import androidx.appcompat.app.AppCompatActivity;
 
 import android.os.Bundle;
+
+import com.example.nanews.R;
 
 public class Authentication extends AppCompatActivity {
 
