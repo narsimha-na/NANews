@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "20106835387",
+    "firebase_url": "https://nanews-da574.firebaseio.com",
+    "project_id": "nanews-da574",
+    "storage_bucket": "nanews-da574.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:20106835387:android:7ed1d1ba6016a162",
+        "android_client_info": {
+          "package_name": "com.example.nanews"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "20106835387-un78smjiebbg7kn9vs3l2bsctj2205g4.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.nanews",
+            "certificate_hash": "cd801a9baccb917ead9fc08fa04392825439750f"
+          }
+        },
+        {
+          "client_id": "20106835387-4chi7pml2tnjq0eg4fesd3i89i91nvir.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDpq7xegbb8UyEEoQ2ribR2zt99IyIKCyw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "20106835387-4chi7pml2tnjq0eg4fesd3i89i91nvir.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
