@@ -1,6 +1,6 @@
 
 <h1 align="center">
-  NA CODE
+  NA NEWS
 </h1>
 
 <p><b>﻿Welcome to NA NEWS.<br>
