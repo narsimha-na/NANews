@@ -13,6 +13,8 @@ This app is tailored in such way that user can use everything comfortable and vi
   <a href="#credits">Differnt Sources</a> •
 </p>
 
+<br>
+<p>This is mostly used for the differnt types of the news api purpose,this is sed to encanhce the user experince :</p>
 
 
 
